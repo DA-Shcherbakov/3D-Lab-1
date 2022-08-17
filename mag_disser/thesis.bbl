@@ -1,0 +1,734 @@
+\begin{thebibliography}{}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\selectlanguage{#1}\fi}
+\providecommand*{\href}[2]{{\small #2}}
+\providecommand*{\url}[1]{{\small #1}}
+\providecommand*{\BibUrl}[1]{\url{#1}}
+\providecommand{\BibAnnote}[1]{}
+\providecommand*{\BibEmph}[1]{#1}
+\ProvideTextCommandDefault{\cyrdash}{\iflanguage{russian}{\hbox
+  to.8em{--\hss--}}{\textemdash}}
+\providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em plus
+  0.1em\fi
+\cyrdash\hskip.2em plus 0.1em\ignorespaces}
+\renewcommand{\newblock}{\ignorespaces}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[Maruo and Kawata(1998)Maruo and Kawata]{Maruo1998TwophotonabsorbedNP}
+\selectlanguageifdefined{english}
+Maruo~S., Kawata~S. Two-photon-absorbed near-infrared photopolymerization for
+  three-dimensional microfabrication~//
+  \href{https://doi.org/https://doi.org/10.1109/84.735349}{\BibEmph{IEEE\/ASME
+  Journal of Microelectromechanical Systems}}. \BibDash
+\newblock 1998. \BibDash
+\newblock Vol.~7. \BibDash
+\newblock P.~411--415.
+
+\bibitem[Bougdid and Sekkat(2020)Bougdid and Sekkat]{voxopt}
+\selectlanguageifdefined{english}
+Bougdid~Y., Sekkat~Z. Voxels Optimization in 3D Laser Nanoprinting~//
+  \BibEmph{Scientific Reports}. \BibDash
+\newblock 2020. \BibDash
+\newblock Vol.~10, no. 10409.
+
+\bibitem[Kaneko et~al.(2003)Kaneko, Sun, Duan, and Kawata]{metalgrat}
+\selectlanguageifdefined{english}
+Two-Photon Photoreduction of Metallic Nanoparticle Gratings in a Polymer
+  Matrix~/ Kaneko~K., Sun~H.-B., Duan~X.~M., and Kawata~S.~// \BibEmph{Appl.
+  Phys. Lett.} \BibDash
+\newblock 2003. \BibDash
+\newblock Vol.~83, no. 1426.
+
+\bibitem[Deubel et~al.(2004)Deubel, Freymann, Wegener, Pereira, Busch, and
+  Soukoulis]{photcrysweg}
+\selectlanguageifdefined{english}
+Direct Laser Writing of Three-Dimensional Photonic-Crystal Templates for
+  Telecommunications~/ Deubel~M., Freymann~G., Wegener~M., Pereira~S.,
+  Busch~K., and Soukoulis~C.~M.~// \BibEmph{Nat. Mater.} \BibDash
+\newblock 2004. \BibDash
+\newblock Vol.~3, no. 444.
+
+\bibitem[Liu et~al.(2019)Liu, Wang, Ho, Ng, Ng, Hall-Chen, Koay, Dong, Liu,
+  Qiu, et~al.]{photcryscol}
+\selectlanguageifdefined{english}
+Structural color three-dimensional printing by shrinking photonic crystals~/
+  Liu~Y., Wang~H., Ho~J., Ng~R.~C., Ng~R.~J., Hall-Chen~V.~H., Koay~E.~H.,
+  Dong~Z., Liu~H., Qiu~C.-W., et~al.~// \BibEmph{Nature communications}.
+  \BibDash
+\newblock 2019. \BibDash
+\newblock Vol.~10, no.~1. \BibDash
+\newblock P.~1--8.
+
+\bibitem[Moughames et~al.(2020{\natexlab{a}})Moughames, Porte, Thiel, Ulliac,
+  Larger, Jacquot, Kadic, and Brunner]{Moughames:20}
+\selectlanguageifdefined{english}
+Three-dimensional waveguide interconnects for scalable integration of photonic
+  neural networks~/ Moughames~J., Porte~X., Thiel~M., Ulliac~G., Larger~L.,
+  Jacquot~M., Kadic~M., and Brunner~D.~//
+  \href{https://doi.org/10.1364/OPTICA.388205}{\BibEmph{Optica}}. \BibDash
+\newblock 2020. \BibDash
+\newblock Vol.~7, no.~6. \BibDash
+\newblock P.~640--646. \BibDash
+\newblock Access mode:
+  \BibUrl{http://opg.optica.org/optica/abstract.cfm?URI=optica-7-6-640}.
+
+\bibitem[Ovsianikov et~al.(2007)Ovsianikov, Chichkov, Mente, Monteiro-Riviere,
+  and Doraiswamy]{drugdeliv}
+\selectlanguageifdefined{english}
+Two Photon Polymerization of Polymer-Ceramic Hybrid Materials for Transdermal
+  Drug Delivery~/ Ovsianikov~A., Chichkov~B., Mente~P., Monteiro-Riviere~N.,
+  and Doraiswamy~A.andNarayan~R.~// \BibEmph{International Journal of Applied
+  Ceramic Technology}. \BibDash
+\newblock 2007. \BibDash
+\newblock Vol.~4. \BibDash
+\newblock P.~22--29.
+
+\bibitem[Klein et~al.(2011)Klein, Richter, Striebel, Franz, Freymann, Wegener,
+  and Bastmeyer]{scafweg}
+\selectlanguageifdefined{english}
+Two-Component Polymer Scaffolds for Controlled Three-Dimensional Cell Culture~/
+  Klein~F., Richter~B., Striebel~T., Franz~C.~M., Freymann~G., Wegener~M., and
+  Bastmeyer~M.~// \BibEmph{Advanced Materials}. \BibDash
+\newblock 2011. \BibDash
+\newblock Vol.~23. \BibDash
+\newblock P.~1341--1345.
+
+\bibitem[Wu et~al.(2009)Wu, Chen, Niu, Wang, Wang, Wang, Xia, and
+  Sun]{microfluidwu}
+\selectlanguageifdefined{english}
+Femtosecond Laser Rapid Prototyping of Nanoshells and Suspending Components
+  Towards Microfluidic Devices~/ Wu~D., Chen~Q.-D., Niu~L.-G., Wang~J.-N.,
+  Wang~J., Wang~R., Xia~H., and Sun~H.-B.~// \BibEmph{Lab on a Chip}. \BibDash
+\newblock 2009. \BibDash
+\newblock Vol.~9. \BibDash
+\newblock P.~2391--2394.
+
+\bibitem[P. and Ormos(2002)P. and Ormos]{microfluidrotor}
+\selectlanguageifdefined{english}
+P.~G., Ormos~P. Rotation of Microscopic Propellers in Laser Tweezers~//
+  \BibEmph{Journal of Optics B: Quantum and Semiclassical Optics}. \BibDash
+\newblock 2002. \BibDash
+\newblock Vol.~4. \BibDash
+\newblock P.~78--81.
+
+\bibitem[Amato et~al.(2012)Amato, Gu, Bellini, Eaton, Cerullo, and
+  R.]{microfluidchip}
+\selectlanguageifdefined{english}
+Integrated Three-Dimensional Filter Separates Nanoscale from Microscale
+  Elements in a Microfluidic Chip~/ Amato~L., Gu~Y., Bellini~N., Eaton~S.~M.,
+  Cerullo~G., and R.~O.~// \BibEmph{Lab on a Chip}. \BibDash
+\newblock 2012. \BibDash
+\newblock Vol.~12. \BibDash
+\newblock P.~1135--1142.
+
+\bibitem[Wu et~al.(2010)Wu, Wu, Niu, Chen, Wang, Song, Fang, and
+  Sun]{microlenwu}
+\selectlanguageifdefined{english}
+High Numerical Aperture Microlens Arrays of Close Packing~/ Wu~D., Wu~S.-Z.,
+  Niu~L.-G., Chen~Q.-D., Wang~R., Song~J.-F., Fang~H.-H., and Sun~H.-B.~//
+  \BibEmph{Appl. Phys. Lett.} \BibDash
+\newblock 2010. \BibDash
+\newblock Vol.~97, no. 031109.
+
+\bibitem[Guo et~al.(2006)Guo, Xiao, Zhai, Li, Xia, and Huang]{Microlenguo}
+\selectlanguageifdefined{english}
+Micro Lens Fabrication by Means of Femtosecond Two Photon Photopolymerization~/
+  Guo~R., Xiao~S., Zhai~X., Li~J., Xia~A., and Huang~W.~// \BibEmph{Optics
+  Express}. \BibDash
+\newblock 2006. \BibDash
+\newblock Vol.~14. \BibDash
+\newblock P.~810--816.
+
+\bibitem[Malinauskas et~al.(2010)Malinauskas, Gilbergs, {\v{Z}}ukauskas,
+  Purlys, Paipulas, and Gadonas]{Microlengadonas}
+\selectlanguageifdefined{english}
+A femtosecond laser-induced two-photon photopolymerization technique for
+  structuring microlenses~/ Malinauskas~M., Gilbergs~H., {\v{Z}}ukauskas~A.,
+  Purlys~V., Paipulas~D., and Gadonas~R.~// \BibEmph{Journal of optics}.
+  \BibDash
+\newblock 2010. \BibDash
+\newblock Vol.~12, no.~3. \BibDash
+\newblock P.~035204.
+
+\bibitem[Pisarenko et~al.(2020)Pisarenko, Zvagelsky, Kolymagin, Katanchiev,
+  Vitukhnovsky, and Chubich]{Microlenspisarenko}
+\selectlanguageifdefined{english}
+DLW-Printed Optical Fiber Micro-Connector Kit for Effective Light Coupling in
+  Optical Prototyping~/ Pisarenko~A.~V., Zvagelsky~R.~D., Kolymagin~D.~A.,
+  Katanchiev~B.~V., Vitukhnovsky~A.~G., and Chubich~D.~A.~// \BibEmph{Optik}.
+  \BibDash
+\newblock 2020. \BibDash
+\newblock Vol. 201, no. 163350.
+
+\bibitem[Schell et~al.(2014)Schell, Neumer, Shi, Kaschke, Fischer, Wegener, and
+  Benson]{schell2014laser}
+\selectlanguageifdefined{english}
+Laser-written parabolic micro-antennas for efficient photon collection~/
+  Schell~A.~W., Neumer~T., Shi~Q., Kaschke~J., Fischer~J., Wegener~M., and
+  Benson~O.~// \BibEmph{Applied Physics Letters}. \BibDash
+\newblock 2014. \BibDash
+\newblock Vol. 105, no.~23. \BibDash
+\newblock P.~231117.
+
+\bibitem[Asadollahbaik et~al.(2020)Asadollahbaik, Thiele, Weber, Kumar,
+  Drozella, Sterl, Herrkomer, A., and Fick]{Fresnellen}
+\selectlanguageifdefined{english}
+Highly Efficient Dual-Fibre Optical Trapping with 3D Printed Diffractive
+  Fresnel Lenses~/ Asadollahbaik~A., Thiele~S., Weber~K., Kumar~A.,
+  Drozella~J., Sterl~F., Herrkomer, A.~Giessen~H., and Fick~J.~// \BibEmph{ACS
+  Photonics}. \BibDash
+\newblock 2020. \BibDash
+\newblock Vol.~7. \BibDash
+\newblock P.~88--97.
+
+\bibitem[Kondo et~al.(2004)Kondo, Yamasaki, Juodkazis, Matsuo, Mizeikis, and
+  Misawa]{Holograpdielec}
+\selectlanguageifdefined{english}
+Three-Dimensional Microfabrication by Femtosecond Pulses in Dielectrics~/
+  Kondo~T., Yamasaki~K., Juodkazis~S., Matsuo~S., Mizeikis~V., and Misawa~H.~//
+  \BibEmph{Thin Solid Films}. \BibDash
+\newblock 2004. \BibDash
+\newblock Vol. 453--454. \BibDash
+\newblock P.~550--556.
+
+\bibitem[Ji et~al.(2021)Ji, Moughames, Chen, Fang, Huaroto, Laude,
+  Mart{\'\i}nez, Ulliac, Cl{\'e}vy, Lutz, et~al.]{4dmetamat}
+\selectlanguageifdefined{english}
+4D Thermomechanical metamaterials for soft microrobotics~/ Ji~Q., Moughames~J.,
+  Chen~X., Fang~G., Huaroto~J.~J., Laude~V., Mart{\'\i}nez~J. A.~I., Ulliac~G.,
+  Cl{\'e}vy~C., Lutz~P., et~al.~// \BibEmph{Communications Materials}. \BibDash
+\newblock 2021. \BibDash
+\newblock Vol.~2, no.~1. \BibDash
+\newblock P.~1--6.
+
+\bibitem[B{\"u}ckmann et~al.(2014{\natexlab{a}})B{\"u}ckmann, Schittny, Thiel,
+  Kadic, Milton, and Wegener]{Metamaterweg}
+\selectlanguageifdefined{english}
+On three-dimensional dilational elastic metamaterials~/ B{\"u}ckmann~T.,
+  Schittny~R., Thiel~M., Kadic~M., Milton~G.~W., and Wegener~M.~// \BibEmph{New
+  journal of physics}. \BibDash
+\newblock 2014. \BibDash
+\newblock Vol.~16, no.~3. \BibDash
+\newblock P.~033032.
+
+\bibitem[io et~al.(2021)io, Ferraro, Ritacco, Aceti, De, Giocondo, and
+  Caputo]{Metamaterintali}
+\selectlanguageifdefined{english}
+Leveraging on ENZ Metamaterials to Achieve 2D and 3D Hyper-Resolution in
+  Two-Photon Direct Laser Writing~/ io~G.~E., Ferraro~A., Ritacco~T.,
+  Aceti~D.~M., De~A., Giocondo~M., and Caputo~R.~// \BibEmph{Adv. Mater.}
+  \BibDash
+\newblock 2021. \BibDash
+\newblock Vol.~33, no. 2008644.
+
+\bibitem[Kadic et~al.(2019)Kadic, Milton, van Hecke, and Wegener]{Kadic2019}
+\selectlanguageifdefined{english}
+3D metamaterials~/ Kadic~M., Milton~G.~W., van Hecke~M., and Wegener~M.~//
+  \href{https://doi.org/10.1038/s42254-018-0018-y}{\BibEmph{Nature Reviews
+  Physics}}. \BibDash
+\newblock 2019. \BibDash
+\newblock Vol.~1, no.~3. \BibDash
+\newblock P.~198--210. \BibDash
+\newblock Access mode: \BibUrl{https://doi.org/10.1038/s42254-018-0018-y}.
+
+\bibitem[B{\"u}ckmann et~al.(2014{\natexlab{b}})B{\"u}ckmann, Thiel, Kadic,
+  Schittny, and Wegener]{buckmann2014elasto}
+\selectlanguageifdefined{english}
+An elasto-mechanical unfeelability cloak made of pentamode metamaterials~/
+  B{\"u}ckmann~T., Thiel~M., Kadic~M., Schittny~R., and Wegener~M.~//
+  \BibEmph{Nature communications}. \BibDash
+\newblock 2014. \BibDash
+\newblock Vol.~5, no.~1. \BibDash
+\newblock P.~1--6.
+
+\bibitem[Lyubomirskiy et~al.(2019)Lyubomirskiy, Koch, Abrashitova, Bessonov,
+  Kokareva, Petrov, Seiboth, Wittwer, Kahnt, Seyrich, et~al.]{Ptychorgraph}
+\selectlanguageifdefined{english}
+Ptychographic characterisation of polymer compound refractive lenses
+  manufactured by additive technology~/ Lyubomirskiy~M., Koch~F.,
+  Abrashitova~K., Bessonov~V., Kokareva~N., Petrov~A., Seiboth~F., Wittwer~F.,
+  Kahnt~M., Seyrich~M., et~al.~// \BibEmph{Optics express}. \BibDash
+\newblock 2019. \BibDash
+\newblock Vol.~27, no.~6. \BibDash
+\newblock P.~8639--8650.
+
+\bibitem[Sharipova et~al.(2021)Sharipova, Baluyan, Abrashitova, Kulagin,
+  Petrov, Chizhov, Shatalova, Chubich, Kolymagin, Vitukhnovsky, Bessonov, and
+  Fedyanin]{X-raylensbessonov}
+\selectlanguageifdefined{english}
+Effect of Pyrolysis on Microstructures Made of Various Photoresists by
+  Two-Photon Polymerization: Comparative Study~/ Sharipova~M.~I.,
+  Baluyan~T.~G., Abrashitova~K.~A., Kulagin~G.~E., Petrov~A.~K., Chizhov~A.~S.,
+  Shatalova~T.~B., Chubich~D.~A., Kolymagin~D.~A., Vitukhnovsky~A.~G.,
+  Bessonov~V.~O., and Fedyanin~A.~A.~// \BibEmph{Optical Materials Express}.
+  \BibDash
+\newblock 2021. \BibDash
+\newblock Vol.~11. \BibDash
+\newblock P.~371--384.
+
+\bibitem[Wang et~al.(2020)Wang, Wang, Zhang, and Yang]{Parabmicranten}
+\selectlanguageifdefined{english}
+Towards Near-Perfect Diffractive Optical Elements via Nanoscale 3D Printing~/
+  Wang~H., Wang~H., Zhang~W., and Yang~J. K.~W.~// \BibEmph{ACS Nano}. \BibDash
+\newblock 2020. \BibDash
+\newblock Vol.~14. \BibDash
+\newblock P.~10452--10461.
+
+\bibitem[Atwater et~al.(2011)Atwater, Spinelli, Kosten, Parsons, Van~Lare,
+  Van~de Groep, Garcia~de Abajo, Polman, and Atwater]{atwater2011microphotonic}
+\selectlanguageifdefined{english}
+Microphotonic parabolic light directors fabricated by two-photon lithography~/
+  Atwater~J., Spinelli~P., Kosten~E., Parsons~J., Van~Lare~C., Van~de Groep~J.,
+  Garcia~de Abajo~J., Polman~A., and Atwater~H.~// \BibEmph{Applied Physics
+  Letters}. \BibDash
+\newblock 2011. \BibDash
+\newblock Vol.~99, no.~15. \BibDash
+\newblock P.~151113.
+
+\bibitem[Feldmann et~al.(2021)Feldmann, Youngblood, Karpov, Gehring, Li,
+  Stappers, Gallo, Fu, Lukashchuk, Raja, Liu, Wright, Sebastian, Kippenberg,
+  Pernice, and Bhaskaran]{Feldmann2021}
+\selectlanguageifdefined{english}
+Parallel convolutional processing using an integrated photonic tensor core~/
+  Feldmann~J., Youngblood~N., Karpov~M., Gehring~H., Li~X., Stappers~M.,
+  Gallo~M.~L., Fu~X., Lukashchuk~A., Raja~A.~S., Liu~J., Wright~C.~D.,
+  Sebastian~A., Kippenberg~T.~J., Pernice~W. H.~P., and Bhaskaran~H.~//
+  \href{https://doi.org/10.1038/s41586-020-03070-1}{\BibEmph{52 | Nature |}}.
+  \BibDash
+\newblock 2021. \BibDash
+\newblock Vol. 589. \BibDash
+\newblock Access mode: \BibUrl{https://doi.org/10.1038/s41586-020-03070-1}.
+
+\bibitem[Sartison et~al.(2020)Sartison, Weber, Thiele, Bremer, Fischbach,
+  Herzog, Kolatschek, Reitzenstein, Herkommer, Michler, et~al.]{Sartison2020}
+\selectlanguageifdefined{english}
+3D printed micro-optics for quantum technology: Optimized coupling of single
+  quantum dot emission into a single mode fiber~/ Sartison~M., Weber~K.,
+  Thiele~S., Bremer~L., Fischbach~S., Herzog~T., Kolatschek~S.,
+  Reitzenstein~S., Herkommer~A., Michler~P., et~al.~// \BibEmph{arXiv preprint
+  arXiv:2007.06369}. \BibDash
+\newblock 2020.
+
+\bibitem[Panusa et~al.(2020)Panusa, Pu, Wang, Moser, and Psaltis]{Panusa2020}
+\selectlanguageifdefined{english}
+Fabrication of sub-micron polymer waveguides through two-photon polymerization
+  in polydimethylsiloxane~/ Panusa~G., Pu~Y., Wang~J., Moser~C., and
+  Psaltis~D.~// \BibEmph{Polymers}. \BibDash
+\newblock 2020. \BibDash
+\newblock Vol.~12, no.~11. \BibDash
+\newblock P.~2485.
+
+\bibitem[Moughames et~al.(2020{\natexlab{b}})Moughames, Porte, Larger, Jacquot,
+  Kadic, and Brunner]{moughames20203d}
+\selectlanguageifdefined{english}
+3D printed multimode-splitters for photonic interconnects~/ Moughames~J.,
+  Porte~X., Larger~L., Jacquot~M., Kadic~M., and Brunner~D.~// \BibEmph{Optical
+  Materials Express}. \BibDash
+\newblock 2020. \BibDash
+\newblock Vol.~10, no.~11. \BibDash
+\newblock P.~2952--2961.
+
+\bibitem[Zhiganshina et~al.(2022)Zhiganshina, Arsenyev, Chubich, Kolymagin,
+  Pisarenko, Burkatovsky, Baranov, Vitukhnovsky, Lobanov, Matital, Aleynik, and
+  Chesnokov]{4metbac}
+\selectlanguageifdefined{english}
+Tetramethacrylic Benzylidene Cyclopentanone dye for One- and Two-Photon
+  Photopolymerization~/ Zhiganshina~E.~R., Arsenyev~M.~V., Chubich~D.~A.,
+  Kolymagin~D.~A., Pisarenko~A.~V., Burkatovsky~D.~S., Baranov~E.~V.,
+  Vitukhnovsky~A.~G., Lobanov~A.~N., Matital~R.~P., Aleynik~D.~Y., and
+  Chesnokov~S.~A.~// \BibEmph{European Polymer Journal}. \BibDash
+\newblock 2022. \BibDash
+\newblock Vol. 162, no. 110917.
+
+\bibitem[Jiang et~al.(2014)Jiang, Zhou, Xiong, Gao, Huang, Jiang, Baldacchini,
+  Silvain, and Lu]{Mechrambaldjiang}
+\selectlanguageifdefined{english}
+Two-Photon Polymerization: Investigation of Chemical and Mechanical Properties
+  of Resins Using Raman Microspectroscopy~/ Jiang~L., Zhou~Y., Xiong~W.,
+  Gao~Y., Huang~X., Jiang~L., Baldacchini~T., Silvain~J.-F., and Lu~Y.~F.~//
+  \BibEmph{Opt. Lett.} \BibDash
+\newblock 2014. \BibDash
+\newblock Vol.~39. \BibDash
+\newblock P.~3034--3037.
+
+\bibitem[Bauer et~al.(2019)Bauer, Guell~Izard, Zhang, T., and
+  Valdevit]{Mechrambald}
+\selectlanguageifdefined{english}
+Programmable Mechanical Properties of Two-Photon Polymerized Materials: From
+  Nanowires to Bulk~/ Bauer~J., Guell~Izard~A., Zhang~Y., T.~B., and
+  Valdevit~L.~// \BibEmph{Adv. Mater. Technol.} \BibDash
+\newblock 2019. \BibDash
+\newblock Vol.~4, no. 1900146.
+
+\bibitem[Rys et~al.(2019)Rys, Steenhusen, Schumacher, Cronauer, and
+  Daraio]{Mechramormocomp}
+\selectlanguageifdefined{english}
+Locally Addressable Material Properties in 3D Micro-Architectures~/ Rys~J.,
+  Steenhusen~S., Schumacher~C., Cronauer~C., and Daraio~C.~// \BibEmph{Extreme
+  Mechanics Letters}. \BibDash
+\newblock 2019. \BibDash
+\newblock Vol.~28. \BibDash
+\newblock P.~31--36.
+
+\bibitem[Kewitsch and Yariv(1996)Kewitsch and Yariv]{Kewitsch:96}
+\selectlanguageifdefined{english}
+Kewitsch~A.~S., Yariv~A. Self-focusing and self-trapping of optical beams upon
+  photopolymerization~//
+  \href{https://doi.org/10.1364/OL.21.000024}{\BibEmph{Opt. Lett.}} \BibDash
+\newblock 1996. \BibDash
+\newblock Vol.~21, no.~1. \BibDash
+\newblock P.~24--26. \BibDash
+\newblock Access mode:
+  \BibUrl{http://opg.optica.org/ol/abstract.cfm?URI=ol-21-1-24}.
+
+\bibitem[Maruo and Ikuta(2000)Maruo and Ikuta]{doi:10.1063/1.126742}
+\selectlanguageifdefined{english}
+Maruo~S., Ikuta~K. Three-dimensional microfabrication by use of
+  single-photon-absorbed polymerization~//
+  \href{https://doi.org/10.1063/1.126742}{\BibEmph{Applied Physics Letters}}.
+  \BibDash
+\newblock 2000. \BibDash
+\newblock Vol.~76, no.~19. \BibDash
+\newblock P.~2656--2658. \BibDash
+\newblock
+  \href{https://doi.org/10.1063/1.126742}{https://doi.org/10.1063/1.126742}.
+
+\bibitem[Wolf et~al.(2011)Wolf, Fischer, Wegener, and Unterreiner]{Wolf:11}
+\selectlanguageifdefined{english}
+Pump--probe spectroscopy on photoinitiators for stimulated-emission-depletion
+  optical lithography~/ Wolf~T.~J., Fischer~J., Wegener~M., and
+  Unterreiner~A.-N.~// \BibEmph{Optics letters}. \BibDash
+\newblock 2011. \BibDash
+\newblock Vol.~36, no.~16. \BibDash
+\newblock P.~3188--3190.
+
+\bibitem[Decker and Jenkins(1985)Decker and Jenkins]{decker1985kinetic}
+\selectlanguageifdefined{english}
+Decker~C., Jenkins~A.~D. Kinetic approach of oxygen inhibition in
+  ultraviolet-and laser-induced polymerizations~// \BibEmph{Macromolecules}.
+  \BibDash
+\newblock 1985. \BibDash
+\newblock Vol.~18, no.~6. \BibDash
+\newblock P.~1241--1244.
+
+\bibitem[Fischer and Wegener(2011)Fischer and Wegener]{fischer2011three}
+\selectlanguageifdefined{english}
+Fischer~J., Wegener~M. Three-dimensional direct laser writing inspired by
+  stimulated-emission-depletion microscopy~// \BibEmph{Optical Materials
+  Express}. \BibDash
+\newblock 2011. \BibDash
+\newblock Vol.~1, no.~4. \BibDash
+\newblock P.~614--624.
+
+\bibitem[Gan et~al.(2013)Gan, Cao, Evans, and Gu]{gan2013three}
+\selectlanguageifdefined{english}
+Three-dimensional deep sub-diffraction optical beam lithography with 9 nm
+  feature size~/ Gan~Z., Cao~Y., Evans~R.~A., and Gu~M.~// \BibEmph{Nature
+  communications}. \BibDash
+\newblock 2013. \BibDash
+\newblock Vol.~4, no.~1. \BibDash
+\newblock P.~1--7.
+
+\bibitem[Li et~al.(2009)Li, Gattass, Gershgoren, Hwang, and
+  Fourkas]{li2009achieving}
+\selectlanguageifdefined{english}
+Achieving $\lambda$/20 resolution by one-color initiation and deactivation of
+  polymerization~/ Li~L., Gattass~R.~R., Gershgoren~E., Hwang~H., and
+  Fourkas~J.~T.~// \BibEmph{Science}. \BibDash
+\newblock 2009. \BibDash
+\newblock Vol. 324, no. 5929. \BibDash
+\newblock P.~910--913.
+
+\bibitem[Yang et~al.(2019)Yang, M{\"u}nchinger, Kadic, Hahn, Mayer, Blasco,
+  Barner-Kowollik, and Wegener]{Effschwarzweg}
+\selectlanguageifdefined{english}
+On the schwarzschild effect in 3D two-photon laser lithography~/ Yang~L.,
+  M{\"u}nchinger~A., Kadic~M., Hahn~V., Mayer~F., Blasco~E.,
+  Barner-Kowollik~C., and Wegener~M.~// \BibEmph{Advanced Optical Materials}.
+  \BibDash
+\newblock 2019. \BibDash
+\newblock Vol.~7, no.~22. \BibDash
+\newblock P.~1901040.
+
+\bibitem[Wang et~al.(2018)Wang, Yu, Liu, Lim, Srinivasan, Zhang, and
+  Yang]{Sigap7nm}
+\selectlanguageifdefined{english}
+Sub-10-nm Suspended Nano-Web Formation by Direct Laser Writing~/ Wang~S.,
+  Yu~Y., Liu~H., Lim~K. T.~P., Srinivasan~B.~M., Zhang~Y.~W., and Yang~J.
+  K.~W.~// \BibEmph{Nano Futures}. \BibDash
+\newblock 2018. \BibDash
+\newblock Vol.~2, no. 025006.
+
+\bibitem[Fischer and Wegener(2013)Fischer and
+  Wegener]{https://doi.org/10.1002/lpor.201100046}
+\selectlanguageifdefined{english}
+Fischer~J., Wegener~M. Three-dimensional optical laser lithography beyond the
+  diffraction limit~//
+  \href{https://doi.org/https://doi.org/10.1002/lpor.201100046}{\BibEmph{Laser
+  \& Photonics Reviews}}. \BibDash
+\newblock 2013. \BibDash
+\newblock Vol.~7, no.~1. \BibDash
+\newblock P.~22--44. \BibDash
+\newblock
+  \href{https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.201100046}{https://onlinelibrary.wiley.com/doi/pdf/10.1002/lpor.201100046}.
+
+\bibitem[Emami and S{\"o}derholm(2009)Emami and S{\"o}derholm]{Dentin}
+\selectlanguageifdefined{english}
+Emami~N., S{\"o}derholm~K. Young's Modulus and degree of conversion of
+  different combination of light-cure dental resins~// \BibEmph{The open
+  dentistry journal}. \BibDash
+\newblock 2009. \BibDash
+\newblock Vol.~3. \BibDash
+\newblock P.~202.
+
+\bibitem[Nicolais et~al.(1987)Nicolais, Apicella, and
+  Grimaldi]{https://doi.org/10.1002/app.1987.070330619}
+\selectlanguageifdefined{english}
+Nicolais~L., Apicella~A., Grimaldi~P. Calorimetric quality control of UV cured
+  optical fiber-coatings~//
+  \href{https://doi.org/https://doi.org/10.1002/app.1987.070330619}{\BibEmph{Journal
+  of Applied Polymer Science}}. \BibDash
+\newblock 1987. \BibDash
+\newblock Vol.~33, no.~6. \BibDash
+\newblock P.~2077--2086. \BibDash
+\newblock
+  \href{https://onlinelibrary.wiley.com/doi/abs/10.1002/app.1987.070330619}{https://onlinelibrary.wiley.com/doi/pdf/10.1002/app.1987.070330619}.
+
+\bibitem[ASMUSSEN(1982)ASMUSSEN]{https://doi.org/10.1111/j.1600-0722.1982.tb00767.x}
+\selectlanguageifdefined{english}
+ASMUSSEN~E. Factors affecting the quantity of remaining double bonds in
+  restorative resin polymers~//
+  \href{https://doi.org/https://doi.org/10.1111/j.1600-0722.1982.tb00767.x}{\BibEmph{European
+  Journal of Oral Sciences}}. \BibDash
+\newblock 1982. \BibDash
+\newblock Vol.~90, no.~6. \BibDash
+\newblock P.~490--496. \BibDash
+\newblock
+  \href{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0722.1982.tb00767.x}{https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1600-0722.1982.tb00767.x}.
+
+\bibitem[Rueggeberg et~al.(1990)Rueggeberg, Hashinger, and
+  Fairhurst]{RUEGGEBERG1990241}
+\selectlanguageifdefined{english}
+Rueggeberg~F., Hashinger~D., Fairhurst~C. Calibration of FTIR conversion
+  analysis of contemporary dental resin composites~//
+  \href{https://doi.org/https://doi.org/10.1016/S0109-5641(05)80005-3}{\BibEmph{Dental
+  Materials}}. \BibDash
+\newblock 1990. \BibDash
+\newblock Vol.~6, no.~4. \BibDash
+\newblock P.~241--249. \BibDash
+\newblock Access mode:
+  \BibUrl{https://www.sciencedirect.com/science/article/pii/S0109564105800053}.
+
+\bibitem[DeWald and Ferracane(1987)DeWald and
+  Ferracane]{doi:10.1177/00220345870660030401}
+\selectlanguageifdefined{english}
+DeWald~J., Ferracane~J. A Comparison of Four Modes of Evaluating Depth of Cure
+  of Light-activated Composites~//
+  \href{https://doi.org/10.1177/00220345870660030401}{\BibEmph{Journal of
+  Dental Research}}. \BibDash
+\newblock 1987. \BibDash
+\newblock Vol.~66, no.~3. \BibDash
+\newblock P.~727--730. \BibDash
+\newblock PMID: 3475304.
+  \href{https://doi.org/10.1177/00220345870660030401}{https://doi.org/10.1177/00220345870660030401}.
+
+\bibitem[Ferracane and Greener(1986)Ferracane and
+  Greener]{https://doi.org/10.1002/jbm.820200111}
+\selectlanguageifdefined{english}
+Ferracane~J.~L., Greener~E.~H. The effect of resin formulation on the degree of
+  conversion and mechanical properties of dental restorative resins~//
+  \href{https://doi.org/https://doi.org/10.1002/jbm.820200111}{\BibEmph{Journal
+  of Biomedical Materials Research}}. \BibDash
+\newblock 1986. \BibDash
+\newblock Vol.~20, no.~1. \BibDash
+\newblock P.~121--131. \BibDash
+\newblock
+  \href{https://onlinelibrary.wiley.com/doi/abs/10.1002/jbm.820200111}{https://onlinelibrary.wiley.com/doi/pdf/10.1002/jbm.820200111}.
+
+\bibitem[Matital et~al.(2019)Matital, Kolymagin, Chubich, Merkushev, and
+  Vitukhnovsky]{Confluminrilond}
+\selectlanguageifdefined{english}
+Luminescence Confocal Microscopy of 3D Components of Photonic Integrated
+  Circuits Fabricated by Two-Photon Photopolymerization~/ Matital~R.~P.,
+  Kolymagin~D.~A., Chubich~D.~A., Merkushev~D.~D., and Vitukhnovsky~A.~G.~//
+  \BibEmph{Journal of Science: Advanced Materials and Devices}. \BibDash
+\newblock 2019.
+
+\bibitem[Chen et~al.(2021)Chen, Frenzel, Zhang, Kadic, and
+  Wegener]{chen2021cubic}
+\selectlanguageifdefined{english}
+Cubic metamaterial crystal supporting broadband isotropic chiral phonons~/
+  Chen~Y., Frenzel~T., Zhang~Q., Kadic~M., and Wegener~M.~// \BibEmph{Physical
+  Review Materials}. \BibDash
+\newblock 2021. \BibDash
+\newblock Vol.~5, no.~2. \BibDash
+\newblock P.~025201.
+
+\bibitem[Shelby et~al.(2001)Shelby, Smith, and Schultz]{shelby2001experimental}
+\selectlanguageifdefined{english}
+Shelby~R.~A., Smith~D.~R., Schultz~S. Experimental verification of a negative
+  index of refraction~// \BibEmph{science}. \BibDash
+\newblock 2001. \BibDash
+\newblock Vol. 292, no. 5514. \BibDash
+\newblock P.~77--79.
+
+\bibitem[Zheludev(2015)Zheludev]{zheludev2015obtaining}
+\selectlanguageifdefined{english}
+Zheludev~N.~I. Obtaining optical properties on demand~// \BibEmph{Science}.
+  \BibDash
+\newblock 2015. \BibDash
+\newblock Vol. 348, no. 6238. \BibDash
+\newblock P.~973--974.
+
+\bibitem[Cummer et~al.(2016)Cummer, Christensen, and Al{\`u}]{Cummer2016}
+\selectlanguageifdefined{english}
+Cummer~S.~A., Christensen~J., Al{\`u}~A. Controlling sound with acoustic
+  metamaterials~//
+  \href{https://doi.org/10.1038/natrevmats.2016.1}{\BibEmph{Nature Reviews
+  Materials}}. \BibDash
+\newblock 2016. \BibDash
+\newblock Vol.~1, no.~3. \BibDash
+\newblock P.~16001. \BibDash
+\newblock Access mode: \BibUrl{https://doi.org/10.1038/natrevmats.2016.1}.
+
+\bibitem[Smith(1991)Smith]{smith1991optimizing}
+\selectlanguageifdefined{english}
+Smith~W.~A. Optimizing electromechanical coupling in piezocomposites using
+  polymers with negative Poisson's ratio~// IEEE 1991 Ultrasonics Symposium,~/
+  IEEE. \BibDash
+\newblock 1991. \BibDash
+\newblock P.~661--666.
+
+\bibitem[Marino et~al.(2015)Marino, Barsotti, de~Vito, Filippeschi, Mazzolai,
+  Piazza, Labardi, Mattoli, and Ciofani]{marino2015two}
+\selectlanguageifdefined{english}
+Two-photon lithography of 3D nanocomposite piezoelectric scaffolds for cell
+  stimulation~/ Marino~A., Barsotti~J., de~Vito~G., Filippeschi~C.,
+  Mazzolai~B., Piazza~V., Labardi~M., Mattoli~V., and Ciofani~G.~//
+  \BibEmph{ACS applied materials \& interfaces}. \BibDash
+\newblock 2015. \BibDash
+\newblock Vol.~7, no.~46. \BibDash
+\newblock P.~25574--25579.
+
+\bibitem[Shamir et~al.(1989)Shamir, Caulfield, and Johnson]{Shamir:89}
+\selectlanguageifdefined{english}
+Shamir~J., Caulfield~H.~J., Johnson~R.~B. Massive holographic interconnection
+  networks and their limitations~//
+  \href{https://doi.org/10.1364/AO.28.000311}{\BibEmph{Appl. Opt.}} \BibDash
+\newblock 1989. \BibDash
+\newblock Vol.~28, no.~2. \BibDash
+\newblock P.~311--324. \BibDash
+\newblock Access mode:
+  \BibUrl{http://opg.optica.org/ao/abstract.cfm?URI=ao-28-2-311}.
+
+\bibitem[Choudhury et~al.(2020)Choudhury, McNicholl, Repetti, Gris-S{\'a}nchez,
+  Li, Phillips, Whyte, Birks, Wiaux, and Thomson]{choudhury2020computational}
+\selectlanguageifdefined{english}
+Computational optical imaging with a photonic lantern~/ Choudhury~D.,
+  McNicholl~D.~K., Repetti~A., Gris-S{\'a}nchez~I., Li~S., Phillips~D.~B.,
+  Whyte~G., Birks~T.~A., Wiaux~Y., and Thomson~R.~R.~// \BibEmph{Nature
+  communications}. \BibDash
+\newblock 2020. \BibDash
+\newblock Vol.~11, no.~1. \BibDash
+\newblock P.~1--9.
+
+\bibitem[LeCun et~al.(2015)LeCun, Bengio, and Hinton]{lecun2015deep}
+\selectlanguageifdefined{english}
+LeCun~Y., Bengio~Y., Hinton~G. Deep learning~// \BibEmph{nature}. \BibDash
+\newblock 2015. \BibDash
+\newblock Vol. 521, no. 7553. \BibDash
+\newblock P.~436--444.
+
+\bibitem[Miller(2017)Miller]{7805240}
+\selectlanguageifdefined{english}
+Miller~D. A.~B. Attojoule Optoelectronics for Low-Energy Information Processing
+  and Communications~//
+  \href{https://doi.org/10.1109/JLT.2017.2647779}{\BibEmph{Journal of Lightwave
+  Technology}}. \BibDash
+\newblock 2017. \BibDash
+\newblock Vol.~35, no.~3. \BibDash
+\newblock P.~346--396.
+
+\bibitem[Miller(2015)Miller]{Miller:15}
+\selectlanguageifdefined{english}
+Miller~D. A.~B. Perfect optics with imperfect components~//
+  \href{https://doi.org/10.1364/OPTICA.2.000747}{\BibEmph{Optica}}. \BibDash
+\newblock 2015. \BibDash
+\newblock Vol.~2, no.~8. \BibDash
+\newblock P.~747--750. \BibDash
+\newblock Access mode:
+  \BibUrl{http://opg.optica.org/optica/abstract.cfm?URI=optica-2-8-747}.
+
+\bibitem[Peng et~al.(2018)Peng, Nahmias, de~Lima, Tait, and Shastri]{8364605}
+\selectlanguageifdefined{english}
+Neuromorphic Photonic Integrated Circuits~/ Peng~H.-T., Nahmias~M.~A.,
+  de~Lima~T.~F., Tait~A.~N., and Shastri~B.~J.~//
+  \href{https://doi.org/10.1109/JSTQE.2018.2840448}{\BibEmph{IEEE Journal of
+  Selected Topics in Quantum Electronics}}. \BibDash
+\newblock 2018. \BibDash
+\newblock Vol.~24, no.~6. \BibDash
+\newblock P.~1--15.
+
+\bibitem[Bauer et~al.(2020)Bauer, Izard, Zhang, Baldacchini, and
+  Valdevit]{Bauer:20}
+\selectlanguageifdefined{english}
+Thermal post-curing as an efficient strategy to eliminate process parameter
+  sensitivity in the mechanical properties of two-photon polymerized
+  materials~/ Bauer~J., Izard~A.~G., Zhang~Y., Baldacchini~T., and
+  Valdevit~L.~// \href{https://doi.org/10.1364/OE.395986}{\BibEmph{Opt.
+  Express}}. \BibDash
+\newblock 2020. \BibDash
+\newblock Vol.~28, no.~14. \BibDash
+\newblock P.~20362--20371. \BibDash
+\newblock Access mode:
+  \BibUrl{http://opg.optica.org/oe/abstract.cfm?URI=oe-28-14-20362}.
+
+\bibitem[Angeloni et~al.(2021)Angeloni, Ganjian, Nouri-Goushki, Mirzaali,
+  Hagen, Zadpoor, Fratila-Apachitei, and Ghatkesar]{angeloni2021mechanical}
+\selectlanguageifdefined{english}
+Mechanical characterization of nanopillars by atomic force microscopy~/
+  Angeloni~L., Ganjian~M., Nouri-Goushki~M., Mirzaali~M., Hagen~C., Zadpoor~A.,
+  Fratila-Apachitei~L., and Ghatkesar~M.~// \BibEmph{Additive Manufacturing}.
+  \BibDash
+\newblock 2021. \BibDash
+\newblock Vol.~39. \BibDash
+\newblock P.~101858.
+
+\bibitem[Flores and Calleja(1998)Flores and Calleja]{Viselasreccreeppol}
+\selectlanguageifdefined{english}
+Flores~A., Calleja~F.~B. Mechanical properties of poly (ethylene terephthalate)
+  at the near surface from depth-sensing experiments~// \BibEmph{Philosophical
+  Magazine A}. \BibDash
+\newblock 1998. \BibDash
+\newblock Vol.~78, no.~6. \BibDash
+\newblock P.~1283--1297.
+
+\bibitem[D{\'\i}ez-Pascual et~al.(2015)D{\'\i}ez-Pascual, G{\'o}mez-Fatou,
+  Ania, and Flores]{Nanoindpol}
+\selectlanguageifdefined{english}
+Nanoindentation in polymer nanocomposites~/ D{\'\i}ez-Pascual~A.~M.,
+  G{\'o}mez-Fatou~M.~A., Ania~F., and Flores~A.~// \BibEmph{Progress in
+  Materials Science}. \BibDash
+\newblock 2015. \BibDash
+\newblock Vol.~67. \BibDash
+\newblock P.~1--94.
+
+\bibitem[Schwarzschild(1900)Schwarzschild]{Effschwarz}
+\selectlanguageifdefined{english}
+Schwarzschild~K. On the deviations from the law of reciprocity for bromide of
+  silver gelatine~// \BibEmph{The Astrophysical Journal}. \BibDash
+\newblock 1900. \BibDash
+\newblock Vol.~11. \BibDash
+\newblock P.~89.
+
+\bibitem[Ziskind et~al.(2009)Ziskind, Fleischer, Zhang, Cohen, and
+  Wagner]{Unaxtest}
+\selectlanguageifdefined{english}
+Compressive response of dentin micro-pillars~/ Ziskind~D., Fleischer~S.,
+  Zhang~K., Cohen~S.~R., and Wagner~H.~D.~// Advances in Mathematical Modeling
+  and Experimental Methods for Materials and Structures. \BibDash
+\newblock Springer, 2009. \BibDash
+\newblock P.~187--197.
+
+\end{thebibliography}

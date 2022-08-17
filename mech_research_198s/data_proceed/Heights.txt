@@ -1,0 +1,58 @@
+Sample	H,mkm	dH,nm	S_J,mkm2
+LP_21_Lines_180mkmps	10.873	537.4	427.07
+LP_19_Lines_180mkmps	11.007	645.2	420.50
+LP_17_Lines_180mkmps	11.25	313.8	403.31
+LP_15_Lines_180mkmps	10.512	314.4	417.76
+LP_13_Lines_180mkmps	11.225	184.8	426.91
+LP_11_Lines_180mkmps	10.698	279.2	412.93
+LP_9_Lines_180mkmps	10.376	97.9	411.46
+LP_7_Lines_180mkmps	9.748	388.3	395.30
+LP_7.1_Lines_180mkmps	9.122	302.9	396.97
+LP_7.4_Lines_180mkmps	9.371	318.9	401.76
+LP_7.7_Lines_180mkmps	9.932	182.8	409.57
+LP_8.0_Lines_180mkmps	9.639	287.2	408.02
+LP_21_Spirals_60mkmps(False)	11	2698	
+LP_19_Spirals_60mkmps(False)	11	951	
+LP_17_Spirals_60mkmps(False)	10.17	669	
+LP_15_Spirals_60mkmps(False)	8.180	902.1	
+LP_13_Spirals_60mkmps(False)	9.55	457	
+LP_11_Spirals_60mkmps(False)	9.36	518	
+LP_9_Spirals_60mkmps(False)	9.02	438	
+LP_21_Spirals_50mkmps(False)	11	2095	460
+LP_19_Spirals_50mkmps(False)	11	890	471.95
+LP_17_Spirals_50mkmps(False)	9.74	785	455.70
+LP_15_Spirals_50mkmps(False)	8.264	777.8	458.35
+LP_13_Spirals_50mkmps(False)	9.37		460
+LP_11_Spirals_50mkmps(False)	9.29		460
+LP_9_Spirals_50mkmps(False)	9.09	333	464.35
+LP_7_Spirals_50mkmps(False)	9.48	917	439.49
+LP_21_Lines_50mkmps(False)	11	1020	460
+LP_19_Lines_50mkmps(False)	11	338	457.12
+LP_17_Lines_50mkmps(False)	10.45	59	444.98
+LP_15_Lines_50mkmps(False)	8.900	52	451.52
+LP_13_Lines_50mkmps(False)	9.56	219	481.2
+LP_11_Lines_50mkmps(False)	9.66	127	
+LP_9_Lines_50mkmps(False)	9.52	81	458.86
+LP_7_Lines_50mkmps(False)	9.69	350	431.64
+LP_21_Lines_50mkmps(True)	11	732	522.5
+LP_19_Lines_50mkmps(True)	11	329	512.2
+LP_17_Lines_50mkmps(True)	10.51	137	496.7
+LP_15_Lines_50mkmps(True)	8.740	215.3	491
+LP_13_Lines_50mkmps(True)	9.44	101	487.4
+LP_11_Lines_50mkmps(True)	9.65	47	481.5
+LP_9_Lines_50mkmps(True)	9.39	110	465.6
+LP_7_Lines_50mkmps(True)	9.52	325	439.4
+LP_21_Spirals_50mkmps(True)	11	2664	481.6
+LP_19_Spirals_50mkmps(True)	11	1101	480.78
+LP_17_Spirals_50mkmps(True)	9.58	1134	478
+LP_15_Spirals_50mkmps(True)	10.662	901.6	464
+LP_13_Spirals_50mkmps(True)	9.93	752	
+LP_11_Spirals_50mkmps(True)	9.60	563	472.49
+LP_9_Spirals_50mkmps(True)	9.12	951	458.19
+LP_7_Spirals_50mkmps(True)	7.90	1027	441.41
+LP_15_Spirals_40mkmps(True)	10.563	838.8	
+LP_16.27_Lines_30mkmps(True)	2.423	4893.8	
+LP_14.72_Lines_30mkmps(True)	10.262	551.0	465.92
+LP_13.17_Lines_30mkmps(True)	10.292	487.9	457.52
+LP_11.62_Lines_30mkmps(True)	9.184	532.7	450.86
+LP_8.60_Lines_30mkmps(True) 	8.987	531.5	428.80
