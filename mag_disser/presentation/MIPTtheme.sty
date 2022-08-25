@@ -1,0 +1,213 @@
+% --------------------------------------------------------------------------
+% Version 2.1
+% This template is available on the sites:
+% https://www.overleaf.com/read/rpkkfchcnbsc
+% https://www.overleaf.com/latex/templates/itmo-beamer-theme/fpttrgnmqwsb
+% https://github.com/AlexZabashta/ITMO-Beamer-theme
+% --------------------------------------------------------------------------
+
+\usepackage[utf8]{inputenc}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{amsmath,amssymb}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{calc,positioning,shapes.misc}
+\usepackage{ragged2e}
+\usepackage{upgreek}
+\usepackage{graphicx}
+%\usepackage{fontspec}
+%\usepackage{iflang}
+
+\newcommand{\RomanNumeralCaps}[1]
+    {\MakeUppercase{\romannumeral #1}}
+
+%\setmonofont{Courier New}
+%\defaultfontfeatures{Ligatures=TeX}
+%\setmainfont{Times New Roman}
+% \setsansfont{Arial}
+%\setsansfont{Calibri.ttf}
+
+
+\definecolor{ITMOblue}{RGB}{25,70,186} 
+\definecolor{ITMOred}{RGB}{236,11,67} 
+\definecolor{ITMOwhite}{RGB}{255,255,255} 
+
+\definecolor{ITMOorange}{RGB}{255,132,0}
+\definecolor{ITMOsky}{RGB}{57,180,230}
+\definecolor{ITMOpistachio}{RGB}{150,214,0}
+\definecolor{ITMOaqua}{RGB}{34,172,155}
+\definecolor{ITMOice}{RGB}{91,193,214}
+\definecolor{ITMOgold}{RGB}{255,222,23} 
+\definecolor{ITMOyellow}{RGB}{235,231,14} 
+\definecolor{ITMOtomato}{RGB}{234,65,38}
+\definecolor{ITMOgreen}{RGB}{0,148,77} 
+
+\definecolor{MIPTorange}{RGB}{255,171,64}
+\definecolor{MIPTsky}{RGB}{146,197,235}
+\definecolor{MIPTblue}{RGB}{0,114,188} 
+\definecolor{MIPTwhite}{RGB}{213,232,247} 
+\definecolor{MIPTwhitewhite}{RGB}{255,255,255} 
+\definecolor{MIPTblack}{RGB}{82,82,82}
+\definecolor{MIPTgray}{RGB}{124,124,124}
+
+\setbeamercolor{title}{fg=ITMOtomato}
+\setbeamercolor{frametitle}{fg=MIPTwhitewhite}
+
+\setbeamercolor{alerted text}{fg=ITMOtomato}
+\setbeamercolor{block title alerted}{fg=ITMOtomato}
+
+\setbeamercolor{block title}{fg=MIPTblue}
+\setbeamercolor{block title example}{fg=ITMOgreen}
+
+\setbeamercolor{caption name}{fg=ITMOblue}
+\setbeamercolor{footline}{fg=ITMOwhite,bg=ITMOblue}
+\setbeamercolor{headline}{fg=ITMOwhite}
+
+\setbeamertemplate{itemize item}[circle]
+\setbeamertemplate{itemize subitem}[circle]
+\setbeamertemplate{itemize subsubitem}[circle]
+\setbeamercolor{itemize item}{fg=MIPTblack}
+\setbeamercolor{itemize subitem}{fg=MIPTblack}
+\setbeamercolor{itemize subsubitem}{fg=MIPTblack}
+\setbeamercolor{enumerate item}{fg=MIPTblack}
+\setbeamercolor{enumerate subitem}{fg=MIPTblack}
+\setbeamercolor{enumerate subsubitem}{fg=MIPTblack}
+\setbeamercolor{item projected}{fg=MIPTblack}
+
+
+% \setbeamerfont{subtitle}{font=12pt}
+
+\newcommand{\miptpolygons}[1]{
+\tikz[remember picture,overlay] \node at (current page.center){
+	\includegraphics[height=\paperheight,width=\paperwidth]{mipt/TISCNM_background.jpg}
+};
+\tikz \node at (current page.center){
+	\begin{minipage}[t][\paperheight][c]{0.87\paperwidth}
+	        \centering
+			#1
+	\end{minipage}
+};
+}
+
+%%%%%%%%
+\newcommand{\department}[1]{\def\insertdepartment{#1}}
+\newcommand{\supervisior}[1]{\def\insertsupervisior{#1}}
+\newcommand{\where}[1]{\def\insertplace{#1}}
+% \newcommand{\department}[1]{\def\insertdepartment{#1}}
+%%%%%%%%%%%%
+% \renewcommand{\theenumi}{\Alph{enumi}}
+
+\setbeamertemplate{title page}{
+	\miptpolygons{
+	   % \vspace{2mm}
+	    \hspace{-12mm}
+	 	\begin{minipage}{0.1\paperwidth}
+    	   \raggedright
+    	   \includegraphics[height = 0.14\paperheight]{mipt/image3_pattern.png}
+    	\end{minipage}
+    	\hfill
+    	\begin{minipage}{0.5\paperwidth}
+    	   \centering
+    	   \insertinstitute{}
+    	   \\ \insertdepartment{}
+    	\end{minipage}
+    	\hfill
+    	\begin{minipage}{0.1\paperwidth}
+    	    \raggedleft
+    	    \includegraphics[height = 0.14\paperheight]{mipt/image2_pattern.png}
+    	\end{minipage}
+    	\hspace{-11mm}
+    	\vspace{9mm}
+	    \begin{center}
+    		\usebeamerfont{title}{
+        		\textcolor{ITMOtomato}{
+        		    \textbf{\inserttitle{}}
+        		}
+    		}
+    		\\
+    		\usebeamerfont{subtitle}{\textbf{\insertsubtitle{}}}
+    	\end{center}
+    	\\
+    	\begin{flushright}
+    		Выполнил: студент \textcolor{ITMOtomato}{М04-003а} группы
+    		\\
+    		\textcolor{ITMOtomato}{\insertauthor{}}
+    		\\
+    		Научный руководитель:
+    		\\
+    		\textcolor{ITMOtomato}{\insertsupervisior{}}
+    	\end{flushright}
+    	\\
+        \begin{center}
+    		\ifx\insertplace\empty
+    			\textcolor{MIPTwhitewhite}{\insertdate}
+    		\else
+    			\textcolor{MIPTwhitewhite}{\insertplace, \the\year{}}
+    		\fi
+        \end{center}
+%         \begin{center}
+% 			г. Москва, г. Троицк \\  \insertdate
+%         \end{center}
+	}
+}
+
+
+% \def \insertplace {}
+% \newcommand{\where}[1]{ \def \insertplace {#1} }
+
+
+\def \insertfootlinetext {\inserttitle}
+\newcommand{\setfootlinetext}[1]{ \def \insertfootlinetext {#1} }
+
+
+\setbeamertemplate{navigation symbols}{}
+
+% \setbeamertemplate{frametitle}{
+    
+% }
+
+
+% \usebackgroundtemplate{\includegraphics[height=\paperheight,width=\paperwidth]{mipt/image4_pattern.jpeg}}
+\setbeamertemplate{background}{\includegraphics[height=\paperheight,width=\paperwidth]{mipt/image4_pattern.jpeg}}
+% \setbeamertemplate{logo}{
+%     \begin{flushleft}
+%         \insertlogo    
+%     \end{flushleft}
+% }
+\setbeamertemplate{frametitle}{
+    \hspace{-12mm}
+    \begin{minipage}{0.10\paperwidth}
+        \raggedleft
+        \includegraphics[height = 0.10\paperheight]{mipt/image5_pattern.png}
+    \end{minipage}
+    \hfill
+    \begin{minipage}{0.6\paperwidth}
+       \centering
+       \usebeamerfont{frametitle}{\insertframetitle{}}
+    \end{minipage}
+    \hfill
+    \begin{minipage}{0.11\paperwidth}
+        \raggedright
+        \includegraphics[height = 0.10\paperheight]{mipt/image6_pattern.png}
+    \end{minipage}
+    \hspace{-20mm}
+}
+
+
+%\setbeamertemplate{footline}[page number]{}
+\setbeamerfont{footnote}{size=\scriptsize}
+
+\setbeamertemplate{footline}{\colorbox{MIPTblue}{\begin{minipage}[c][0.04\textheight][c]{0.83\paperwidth}\hskip1em\insertfootlinetext\hfill\end{minipage}}\colorbox{MIPTorange}{\begin{minipage}[c][0.04\textheight][c]{0.15\paperwidth}\begin{center}\small\textbf{\insertframenumber/\inserttotalframenumber}\end{center}\end{minipage}}}
+% \setbeamertemplate{footline}{{\begin{flushleft}\begin{center}\small\textbf{\insertframenumber}\end{center}\end{flushleft}}}
+
+%
+\setbeamerfont{footline}{size=\footnotesize}
+\setbeamerfont{frametitle}{size=\bf\Large}
+% \begin{columns}
+% \column{0.8\textwidth}{}
+% \column{0.2\textwidth}{\insertlogo}
+% \end{columns}
+
+
+% \renewcommand{\theenumi}{\alph{enumi}}

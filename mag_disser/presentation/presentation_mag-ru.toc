@@ -1,0 +1,12 @@
+\babel@toc {russian}{}\relax 
+\beamer@sectionintoc {1}{Актуальность}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Применение DLW -- нанолитографии}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Цель работы}{3}{0}{1}
+\beamer@sectionintoc {2}{Изготовление образцов}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{DLW -- нанолитография}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Морфология вокселя}{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{Алгоритм изготовления}{10}{0}{2}
+\beamer@sectionintoc {3}{Исследование механических и оптических свойств}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{Наноиндентирование}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Рамановская спектроскопия}{15}{0}{3}
+\beamer@sectionintoc {4}{Заключение}{18}{0}{4}

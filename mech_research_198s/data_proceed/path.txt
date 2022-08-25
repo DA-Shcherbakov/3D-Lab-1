@@ -1,1 +1,1 @@
-/home/denis/Рабочий стол/3D Lab/Article_Mech_Research/images/
+../../X-ray-article/images/
