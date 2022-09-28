@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+The style file: gost2008.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: thesis.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty title in Segall_1968
+Warning--empty booktitle in Agranovich_1983
+Warning--empty journal in Perelman_2003_math:0307245
+Warning--empty year/date in Perelman_2003_math:0307245
+Warning--empty journal in Nielsen_2010_1006.2735
+Warning--empty year/date in Nielsen_2010_1006.2735
+"\" can't start a style-file command---line 2619 of file gost2008.bst
+ : 
+ : \endinput
+(Error may have been on previous line)
+You've used 15 entries,
+            5657 wiz_defined-function locations,
+            1706 strings with 17052 characters,
+and the built_in function-call counts, 5866 in all, are:
+= -- 831
+> -- 107
+< -- 27
++ -- 39
+- -- 24
+* -- 317
+:= -- 583
+add.period$ -- 57
+call.type$ -- 15
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 320
+empty$ -- 653
+format.name$ -- 24
+if$ -- 1641
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 0
+newline$ -- 106
+num.names$ -- 39
+pop$ -- 113
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 212
+stack$ -- 0
+substring$ -- 198
+swap$ -- 217
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 6
+while$ -- 31
+width$ -- 17
+write$ -- 236
+(There was 1 error message)

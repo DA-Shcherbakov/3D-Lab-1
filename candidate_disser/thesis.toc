@@ -1,0 +1,37 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\cyrillictext \CYRV \cyrv \cyre \cyrd \cyre \cyrn \cyri \cyre }{3}{chapter*.2}%
+\contentsline {chapter}{\chaptername ~1.\hskip 1em \IeC {\CYRN }\IeC {\cyra }\IeC {\cyrz }\IeC {\cyrv }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrg }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyrery }}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1.\hskip 1em}\IeC {\CYRN }\IeC {\cyra }\IeC {\cyrz }\IeC {\cyrv }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrs }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyri }}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2.\hskip 1em}\IeC {\CYRV }\IeC {\cyrery }\IeC {\cyrv }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyrery } \IeC {\cyrk } \IeC {\cyrp }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyrv }\IeC {\cyro }\IeC {\cyrishrt } \IeC {\cyrg }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyre }}{5}{section.1.2}%
+\contentsline {chapter}{\cyrillictext \CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{6}{chapter*.4}%
+\contentsline {chapter}{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrl \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyrery }{7}{chapter*.6}%
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
